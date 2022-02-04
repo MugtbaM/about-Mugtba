@@ -28,7 +28,7 @@ h2 {
 .topimg {
     position: absolute;
     top: 50px;
-    right: 300px;
+    display: none;
 }
 
 .bottomimg {
