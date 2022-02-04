@@ -1,0 +1,92 @@
+body {
+    background-color: lightgrey;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: slateblue;
+    border-width: 5px;
+    width: 10%;
+
+}
+
+h1 {
+    color: slateblue;
+
+}
+
+p {
+    color: darkgreen;
+    font-size: x-large;
+
+}
+
+a:link, a:visited {
+    color: yellowgreen;
+    padding: 15px 25px;
+}
+
+a:hover, a:active {
+    color: darkgreen;
+}
+
+img {
+    border: 8px solid greenyellow;
+    border-radius: 100%;
+    margin-right: 15px;
+    float: left;
+}
+
+table {
+    width: 60%;
+    height: 150px;
+}
+
+th, td {
+    border: 1px solid green;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: chartreuse;
+}
+
+tr:hover {
+    background-color: #96D4D4;
+
+}
+
+.first {
+    color: blue;
+}
+
+.second {
+    color: brown;
+}
+
+.third {
+    color: crimson;
+}
+
+.first:hover {
+    background-color: brown;
+}
+
+.second:hover {
+    background-color: crimson;
+}
+
+.third:hover {
+    background-color: blue;
+}
+
+.frame {
+    border: 5px solid yellowgreen;
+
+}
